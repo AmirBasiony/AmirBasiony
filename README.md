@@ -2,9 +2,11 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Welcome" />
 </p>
 
-<h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Amir Elbasiony</h3>
-<h4 align="center">A Passionate Embedded Software Engineer</h4>
+<h1 align="center">Greetings...! 👋</h1>
+<h3 align="center">About Me</h3>
+<p align="center">
+  I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
+</p>
 
 <p align="center">
   Connect with me on:
@@ -16,11 +18,6 @@
   <a href="mailto:amirbasiony14@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
-</p>
-
-<h3 align="center">About Me</h3>
-<p align="center">
-  Passionate about embedded systems and software development. I love tackling complex challenges in the world of hardware and software integration.
 </p>
 
 <h3 align="center">Education</h3>
