@@ -25,10 +25,10 @@
 
 <h3 align="center">Projects</h3>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: This project is our IEEE VICTORIS maze-solving entry, with custom C code, ATmega32 MCU, and innovative hardware and algorithms.
+  <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: Our IEEE VICTORIS maze-solving entry, involves custom C code, ATmega32 MCU, and innovative hardware and algorithms. This project was a significant milestone in my journey, demonstrating my problem-solving skills.
 </p>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>: Designed a pressure control system for the STM32F103C6 MCU, including custom startup code, linker script, makefile, UML diagrams.
+  <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>: Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars, utilizing LEDs and push buttons for interface.
 </p>
 <p align="center">
   <a href="https://github.com/AmirBasiony/Library_Management_System"> 3- Library Management System</a>: C programming project: Library Management System with Owner, Admin, and User modes for comprehensive library management, using Linked-List Data Structure.
