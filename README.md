@@ -40,3 +40,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbasiony" alt="GitHub Streak" />
 </p>
+
+<h3 align="center">Profile Visits</h3>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=amirbasiony.amirbasiony" alt="Visitor Badge" />
+</p>
