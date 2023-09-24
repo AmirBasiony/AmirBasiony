@@ -41,6 +41,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbasiony" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">Profile Views</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/AmirBasiony/count.svg)
+<h5 align="center">Profile Views</h5>
+<div align="center">
+  <img src="https://image-host.com/marquee1.svg" alt="Thanks for visiting me" height="120" width="100%" />
+  <br />
+  <img src="https://profile-counter.glitch.me/AmirBasiony/count.svg" alt="Visitor Count" />
+</div>
