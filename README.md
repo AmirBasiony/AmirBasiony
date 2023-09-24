@@ -28,7 +28,7 @@
   <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: Our IEEE VICTORIS entry demonstrates an innovative maze-solving solution with custom C code on an ATmega32 MCU, featuring custom drivers, a Floodfill algorithm, PID motor control, ultrasonic sensors, and encoders.
 </p>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>:  Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars, utilizing LEDs and push buttons for interface.
+  <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>:  Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars.
 </p>
 <p align="center">
   <a href="https://github.com/AmirBasiony/Library_Management_System"> 3- Library Management System</a>: developed in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
