@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amir elbasiony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir elbasiony" height="30" width="40" /></a>
+<p align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Mina-Karamlabel=Follow%20Me&style=social(https://github.com/AmirBasiony)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
