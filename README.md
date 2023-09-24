@@ -41,9 +41,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbasiony" alt="GitHub Streak" />
 </p>
 
+
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+</div>
+
 <h5 align="center">Profile Views</h5>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting me" height="120" width="100%" />
-  <br />
   <img src="https://profile-counter.glitch.me/AmirBasiony/count.svg" alt="Visitor Count" />
 </div>
