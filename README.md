@@ -14,6 +14,7 @@
   </a>
 </p>
 
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -31,13 +32,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirelbasiony&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirbasiony&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirelbasiony&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirbasiony&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirelbasiony&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbasiony" alt="GitHub Streak" />
 </p>
