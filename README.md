@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/Vzk_9mrDqTAAAAAC/welcome-to-my-profile-welcome.gif" alt="Welcome" />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Welcome" />
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
