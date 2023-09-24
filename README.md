@@ -26,17 +26,23 @@
 <h3 align="center">Projects</h3>
 <p align="center">
   <!-- Add links to your projects here -->
-  - [Project 1](PROJECT_1_LINK): Description of Project 1.
+  - [MicroMouse_IEEE](https://github.com/AmirBasiony/MicroMouse_IEEE): This IEEE VICTORIS maze-solving project features custom C code, innovative hardware, and advanced algorithms.
+  </p>
+<p align="center">
+  - [Library Management System](https://github.com/AmirBasiony/Library_Management_System): Starks MU's C project: Library Management System with Owner, Admin, User modes for comprehensive library management.
+</p>
+<p align="center">
   - [Project 2](PROJECT_2_LINK): Description of Project 2.
 </p>
 
-<h3 align="center">Skills and Technologies</h3>
+<h4 align="center">Languages and Tools:</h4>
 <p align="center">
-  - C/C++
-  - Git
-  - Linux
-  - Makefiles
-  - Notepad++
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code>
+  <code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </p>
 
 <h3 align="center">Education and Certifications</h3>
