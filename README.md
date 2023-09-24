@@ -41,8 +41,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbasiony" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">Profile Visits</h3>
+<h3 align="center">Profile Views</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AmirBasiony.AmirBasiony" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=AmirBasiony&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
