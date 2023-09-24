@@ -48,10 +48,9 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </p>
 
-<h3 align="center">Education and Certifications</h3>
+<h3 align="center">Education</h3>
 <p align="center">
-  - Bachelor's in Computer Engineering, [Your University Name]
-  - Certified Embedded Software Developer, [Certifying Body]
+  - Faculty of Engineering, Computer And Control Systems Department, Mansoura University
 </p>
 
 <p align="center">
