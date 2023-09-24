@@ -23,6 +23,11 @@
   Passionate about embedded systems and software development. I love tackling complex challenges in the world of hardware and software integration.
 </p>
 
+<h3 align="center">Education</h3>
+<p align="center">
+  - Faculty of Engineering, Computer And Control Systems Department, Mansoura University
+</p>
+
 <h3 align="center">Projects</h3>
 <p align="center">
   <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: Our IEEE VICTORIS entry demonstrates an innovative maze-solving solution with custom C code on an ATmega32 MCU, featuring custom drivers, a Floodfill algorithm, PID motor control, ultrasonic sensors, and encoders.
@@ -46,11 +51,6 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code>
   <code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-</p>
-
-<h3 align="center">Education</h3>
-<p align="center">
-  - Faculty of Engineering, Computer And Control Systems Department, Mansoura University
 </p>
 
 <p align="center">
