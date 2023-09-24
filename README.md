@@ -1,5 +1,5 @@
 
-<h1 align="center"> [![MasterHead](https://media.tenor.com/Vzk_9mrDqTAAAAAC/welcome-to-my-profile-welcome.gif)](https://rishavchanda.io)
+<h1 align="center">[![MasterHead](https://media.tenor.com/Vzk_9mrDqTAAAAAC/welcome-to-my-profile-welcome.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amir Elbasiony</h1>
 <h3 align="center">A Passionate Embedded Software Engineer</h3>
 
