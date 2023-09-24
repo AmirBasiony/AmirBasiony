@@ -33,12 +33,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
-    <img src="https://camo.githubusercontent.com/ce744518c8166497935fcf5c784e7fc7015f7c7ee45c42a3cbb86da7deabf4ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36392f4e6f74657061642532422532425f4c6f676f2e7376672f3233363770782d4e6f74657061642532422532425f4c6f676f2e7376672e706e67" alt="Linux" width="40" height="40" />
-  </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
 </p>
 
 <p align="center">
