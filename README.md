@@ -7,7 +7,9 @@
 <h3 align="center">a Passionate Embedded Software Engineer</h3>
 
 <p align="center">
-   <span>Connect with me on </span>
+  Connect with me on:
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/amirelbasiony" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
