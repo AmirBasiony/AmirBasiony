@@ -26,6 +26,8 @@
 <h3 align="center">Projects</h3>
 <p align="center">
   - [MicroMouse_IEEE](https://github.com/AmirBasiony/MicroMouse_IEEE): This project is our IEEE VICTORIS maze-solving entry, with custom C code, ATmega32 microcontroller, and innovative hardware and algorithms.
+</p>
+  <p align="center">
   - [Library Management System](https://github.com/AmirBasiony/Library_Management_System): Starks MU's C project: Library Management System with Owner, Admin, and User modes for comprehensive library management, using Linked-List Data Structure.
 </p>
 <p align="center">
