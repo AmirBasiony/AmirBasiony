@@ -25,7 +25,7 @@
 
 <h3 align="center">Projects</h3>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: This project is our IEEE VICTORIS maze-solving entry, with custom C code, ATmega32 microcontroller, and innovative hardware and algorithms.
+  <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: This project is our IEEE VICTORIS maze-solving entry, with custom C code, ATmega32 MCU, and innovative hardware and algorithms.
 </p>
 <p align="center">
   <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>: Designed a pressure control system for the STM32F103C6 MCU, including custom startup code, linker script, makefile, UML diagrams.
