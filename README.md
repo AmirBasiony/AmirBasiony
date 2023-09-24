@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I'm Amir Elbasiony</h3>
-<h4 align="center">Passionate Embedded Software Engineer</h4>
+<h4 align="center">A Passionate Embedded Software Engineer</h4>
 
 <p align="center">
   Connect with me on:
@@ -25,16 +25,16 @@
 
 <h3 align="center">Projects</h3>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: Our IEEE VICTORIS maze-solving entry, involves custom C code, ATmega32 MCU, and innovative hardware and algorithms. This project was a significant milestone in my journey, demonstrating my problem-solving skills.
+  <a href="https://github.com/AmirBasiony/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: Our IEEE VICTORIS entry demonstrates an innovative maze-solving solution with custom C code on an ATmega32 MCU, featuring custom drivers, a Floodfill algorithm, PID motor control, ultrasonic sensors, and encoders.
 </p>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>: Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars, utilizing LEDs and push buttons for interface.
+  <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>:  Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars, utilizing LEDs and push buttons for interface.
 </p>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/Library_Management_System"> 3- Library Management System</a>: C programming project: Library Management System with Owner, Admin, and User modes for comprehensive library management, using Linked-List Data Structure.
+  <a href="https://github.com/AmirBasiony/Library_Management_System"> 3- Library Management System</a>: developed in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
 </p>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/Student_Managment_System">4- Student Management System</a>: "C programming project: Efficient Student Management System with QUEUE Data Structure for names, IDs, GPAs, and courses.
+  <a href="https://github.com/AmirBasiony/Student_Managment_System">4- Student Management System</a>: Developed in C programming with a Queue Data Structure, this project efficiently manages student data, allowing manual and file-based data entry, search, update, and delete functions. It accommodates up to 50 students using an array of structs and a global index
 </p>
 
 
