@@ -43,6 +43,4 @@
 
 <h3 align="center">Profile Views</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmirBasiony&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/AmirBasiony/count.svg)
