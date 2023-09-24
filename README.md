@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Amir Elbasiony,</h3>
+<h3 align="center">I'm Amir Elbasiony</h3>
 <h3 align="center">a Passionate Embedded Software Engineer</h3>
 
 <p align="center">
