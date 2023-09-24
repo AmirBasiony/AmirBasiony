@@ -31,7 +31,7 @@
   <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>: Designed a pressure control system for the STM32F103C6 MCU, including custom startup code, linker script, makefile, UML diagrams.
 </p>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/Library_Management_System">3- Library Management System</a>: C programming project: Library Management System with Owner, Admin, and User modes for comprehensive library management, using Linked-List Data Structure.
+  <a href="https://github.com/AmirBasiony/Library_Management_System"> 3- Library Management System</a>: C programming project: Library Management System with Owner, Admin, and User modes for comprehensive library management, using Linked-List Data Structure.
 </p>
 <p align="center">
   <a href="https://github.com/AmirBasiony/Student_Managment_System">4- Student Management System</a>: "C programming project: Efficient Student Management System with QUEUE Data Structure for names, IDs, GPAs, and courses.
