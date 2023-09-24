@@ -9,6 +9,9 @@
   <a href="https://linkedin.com/in/amirelbasiony" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="mailto:amirbasiony14@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
