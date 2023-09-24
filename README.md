@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Welcome" />
 </p>
-
-<h1 align="center">Greetings...! 👋</h1>
 <h3 align="center">About Me</h3>
 <p align="center">
   I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
