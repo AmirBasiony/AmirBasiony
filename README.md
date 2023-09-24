@@ -44,5 +44,5 @@
 <h3 align="center">Profile Visits</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=amirbasiony.amirbasiony" alt="Visitor Badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=AmirBasiony.AmirBasiony" alt="Visitor Badge" />
 </p>
