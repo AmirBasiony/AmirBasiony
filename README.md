@@ -9,7 +9,7 @@
 </p>
   <p align="center">
 <a href="https://drive.google.com/file/d/1ggai63muvu3__nr8BKdycM1UIE550YbQ/view?usp=drive_link" target="_blank">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/61/5f/ec615fae-7b09-d1dc-10ed-d514ed0faa78/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp" alt="Email" height="30" width="40" />
+    <img src="https://as2.ftcdn.net/v2/jpg/03/73/59/99/1000_F_373599952_GLyMFSg9VzUoGFyDuTTp9HJpWS382DV8.jpg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
