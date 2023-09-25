@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
   <a href="https://drive.google.com/file/d/1ggai63muvu3__nr8BKdycM1UIE550YbQ/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/AmirBasiony/AmirBasiony/blob/main/CV%20Icon.png" alt="Email" height="30" width="40" />
+    <img src="https://images.vexels.com/media/users/3/140030/isolated/lists/521136d25b37386f49728b93d2e4e6fa-cv-icon.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
