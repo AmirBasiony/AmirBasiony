@@ -3,11 +3,16 @@
 </p>
 <h3 align="center">About Me</h3> 
 <p align="center">
+  I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
+  <p align="center">
 <a href="https://drive.google.com/file/d/1ggai63muvu3__nr8BKdycM1UIE550YbQ/view?usp=drive_link" target="_blank">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/61/5f/ec615fae-7b09-d1dc-10ed-d514ed0faa78/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp" alt="Email" height="30" width="40" />
   </a>
+</p>
+
+<h3 align="center">Education</h3>
 <p align="center">
-  I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
+  - Faculty of Engineering, Computer And Control Systems Department, Mansoura University
 </p>
 
 <p align="center">
@@ -20,11 +25,6 @@
   <a href="mailto:amirbasiony14@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
-</p>
-
-<h3 align="center">Education</h3>
-<p align="center">
-  - Faculty of Engineering, Computer And Control Systems Department, Mansoura University
 </p>
 
 <h3 align="center">Projects</h3>
