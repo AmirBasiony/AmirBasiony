@@ -9,7 +9,7 @@
 </p>
   <p align="center">
 <a href="https://drive.google.com/file/d/1ggai63muvu3__nr8BKdycM1UIE550YbQ/view?usp=drive_link" target="_blank">
-    <img src="https://as1.ftcdn.net/v2/jpg/01/74/69/16/1000_F_174691684_Sf9Iz6KeM6HYzXsi8KHkCqaR3OT4Xmuq.jpg" alt="Email" height="60" width="50" />
+    <img src="https://as1.ftcdn.net/v2/jpg/01/74/69/16/1000_F_174691684_Sf9Iz6KeM6HYzXsi8KHkCqaR3OT4Xmuq.jpg" alt="Email" height="50" width="50" />
   </a>
 </p>
 
