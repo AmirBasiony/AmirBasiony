@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://scontent.fcai2-1.fna.fbcdn.net/v/t39.30808-6/300570682_461176406026243_4274743350302474048_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=S2D96oqOFv4AX9SVwho&_nc_ht=scontent.fcai2-1.fna&oh=00_AfCLjcUHrsfeiMM7vMFOAEKSOMimWS1DZVVVUp5FFjfaOg&oe=6516AF0A" alt="Welcome" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/61/5f/ec615fae-7b09-d1dc-10ed-d514ed0faa78/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp" alt="Welcome" />
 </p>
 <h3 align="center">About Me</h3> 
 <p align="center">
