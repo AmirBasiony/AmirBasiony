@@ -38,7 +38,7 @@
   <a href="https://github.com/AmirBasiony/Mastering_Embedded_Systems/tree/main/First_Term_Projects/P1_Pressure_Controller_Project">2- Pressure Control System</a>:  Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars.
 </p>
 <p align="center">
-  <a href="https://github.com/AmirBasiony/Library_Management_System"> 3- Library Management System</a>: developed in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
+  <a href="https://github.com/AmirBasiony/Library_Management_System"> 3- Library Management System</a>: Developed  in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
 </p>
 <p align="center">
   <a href="https://github.com/AmirBasiony/Student_Managment_System">4- Student Management System</a>: Developed in C programming with a Queue Data Structure, this project efficiently manages student data, allowing manual and file-based data entry, search, update, and delete functions. It accommodates up to 50 students using an array of structs and a global index
