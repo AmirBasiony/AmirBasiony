@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  Connect with me on:
+  📝Connect with me on:
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-elbasiony-57809b204" target="_blank">
@@ -45,7 +45,7 @@
 </p>
 
 
-<h4 align="center">Languages and Tools:</h4>
+<h4 align="center">🛠️Languages and Tools:</h4>
 <p align="center">
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
