@@ -10,7 +10,7 @@
   Connect with me on:
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/amirelbasiony" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-elbasiony-57809b204" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:amirbasiony14@gmail.com" target="_blank">
