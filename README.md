@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Welcome" />
+  <img src="https://scontent.fcai2-1.fna.fbcdn.net/v/t39.30808-6/300570682_461176406026243_4274743350302474048_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=S2D96oqOFv4AX9SVwho&_nc_ht=scontent.fcai2-1.fna&oh=00_AfCLjcUHrsfeiMM7vMFOAEKSOMimWS1DZVVVUp5FFjfaOg&oe=6516AF0A" alt="Welcome" />
 </p>
 <h3 align="center">About Me</h3> 
 <p align="center">
