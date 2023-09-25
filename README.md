@@ -16,6 +16,9 @@
   <a href="mailto:amirbasiony14@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
+  <a href="https://drive.google.com/file/d/1ggai63muvu3__nr8BKdycM1UIE550YbQ/view?usp=drive_link" target="_blank">
+    <img src="file:///C:/Users/Amir/Desktop/cv-square.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="center">Education</h3>
