@@ -8,7 +8,7 @@
   <span>My CV can be found below:</span>
 </p>
   <p align="center">
-<a href="https://drive.google.com/file/d/1GjOgfNfDwmFO3xnzlxc0brC_Wlr6_I86/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1QLbwirauoSjGqDEcl6uDeplvQY3VTkeD/view?usp=drive_link" target="_blank">
     <img src="https://as2.ftcdn.net/v2/jpg/00/99/38/75/1000_F_99387513_nXXJsxWvAPgh9qrvM57wEyyzqbAkgClJ.jpg" alt="Email" height="50" width="50" />
   </a>
 </p>
