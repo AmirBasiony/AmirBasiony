@@ -48,6 +48,7 @@
 <h4 align="center">🛠️Languages and Tools:</h4>
 <p align="center">
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img height="50" src="https://camo.githubusercontent.com/a8917573a65206f0615f2addfef5c9f3a6586c0aa7d71500a732b26e506bbeff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31382f49534f5f432532422532425f4c6f676f2e737667"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code>
