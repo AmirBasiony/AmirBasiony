@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">About Me</h3> 
 <p align="center">
-  I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
+  I am an enthusiastic embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
   <p align="center">
   <span>My CV can be found below:</span>
 </p>
