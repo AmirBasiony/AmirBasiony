@@ -10,7 +10,7 @@
 </p> 
 
 <p align="center"> 
-  <a href="https://drive.google.com/file/d/1qsQlN2wJmYzC7H0w6YSW8w59XA9evnwo/view?usp=sharing" target="_blank"> 
+  <a href="https://drive.google.com/file/d/1VIfHNzQmb7eLdg7sVsR2Nj0ho0bSmJ0e/view?usp=sharing" target="_blank"> 
     <img src="https://as2.ftcdn.net/v2/jpg/00/99/38/75/1000_F_99387513_nXXJsxWvAPgh9qrvM57wEyyzqbAkgClJ.jpg" alt="CV" height="50" width="50" /> 
   </a> 
 </p> 
