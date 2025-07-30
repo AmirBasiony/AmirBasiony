@@ -39,8 +39,15 @@
   <a href="https://gitlab.com/amirbasiony/dockerized-monolith-nodejs-app">3- Dockerized Monolith Node.js App</a>: Deployed a monolithic Node.js app using Docker, integrated it with Nginx for reverse proxy, and automated the deployment using GitLab CI/CD pipelines. 
 </p> 
 <p align="center"> 
-  <a href="https://github.com/AmirBasiony/DBMS_Bash_Script">4- Bash Shell Script Database Management System</a>: Implemented a command-line DBMS using Bash scripting for CRUD operations, data validation, and database/table management. Designed modular scripts to enhance scalability. 
+  <a href="https://github.com/AmirBasiony/Todo-List-nodejs-app.git">4- Full-Stack TODO App with CI/CD and AWS Infrastructure</a>: Deployed a Node.js TODO application using Docker Compose on private EC2 instances, automated via Terraform, Ansible (SSM), and GitHub Actions, and accessed through a public ALB.
+</p>
+<p align="center"> 
+  <a href="https://github.com/AmirBasiony/DBMS_Bash_Script">5- Bash Shell Script Database Management System</a>: Implemented a command-line DBMS using Bash scripting for CRUD operations, data validation, and database/table management. Designed modular scripts to enhance scalability. 
 </p> 
+<p align="center"> 
+  <a href="https://github.com/AmirBasiony/Todo-List-nodejs-app-K8s">6- Kubernetes TODO App with GitOps and ArgoCD</a>: Containerized and deployed a Node.js TODO application on a Kubernetes cluster. Leveraged GitOps principles using <a href="https://github.com/AmirBasiony/todo-list-GitOps-ArgoCD-K8s">a dedicated ArgoCD GitOps repo</a> for declarative, automated delivery and continuous deployment.
+</p>
+
 
 <h4 align="center">🛠️Languages and Tools:</h4> 
 <p align="center"> 
